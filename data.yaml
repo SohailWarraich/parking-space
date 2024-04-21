@@ -1,0 +1,8 @@
+path:  C:\Users\jarsh\Downloads\Compressed\archive_3\PKLotYoloData\Data # dataset root dir
+train: train/images  # train images (relative to 'path') 
+val: val/images  # val images (relative to 'path') 
+test: test/images
+
+
+nc: 2
+names: ["empty","occupied"]

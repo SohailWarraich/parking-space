@@ -1,8 +1,8 @@
 import os
 
 # Set the paths to the folders
-image_folder = r'C:\Users\jarsh\Downloads\test\images'
-label_folder = r'C:\Users\jarsh\Downloads\test\labels'
+image_folder = r'C:\Users\jarsh\Downloads\Compressed\archive_3\PKLotYoloData\HasXML\UFPR05\test\images'
+label_folder = r'C:\Users\jarsh\Downloads\Compressed\archive_3\PKLotYoloData\HasXML\UFPR05\test\labels'
 
 # Get the list of image files
 image_files = os.listdir(image_folder)
